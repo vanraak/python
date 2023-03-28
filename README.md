@@ -2,11 +2,18 @@
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD)
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/python/HEAD)
+
+
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
 http://mybinder.org/v2/gh/binder-examples/requirements/HEAD
+https://mybinder.org/v2/gh/vanraak/python/HEAD?labpath=index.ipynb
+
+
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
